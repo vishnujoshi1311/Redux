@@ -6,6 +6,7 @@ function App() {
       <header className="App-header">Todo List app </header>
       <div className='flex'>TODO</div>
       <div>creating todo list</div>
+      <div>Redux</div>
        
      
     </div>
